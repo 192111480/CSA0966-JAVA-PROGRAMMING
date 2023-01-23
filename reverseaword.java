@@ -10,3 +10,4 @@ reversedString = reversedString + str.charAt(i);
 System.out.println(reversedString);
 }
 }
+
